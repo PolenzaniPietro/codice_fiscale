@@ -1,0 +1,14 @@
+C:\Users\polenzani.pietro\Desktop\codice_fiscale\codiceFiscale\codiceFiscale\bin\Debug\net7.0\codiceFiscale.exe
+C:\Users\polenzani.pietro\Desktop\codice_fiscale\codiceFiscale\codiceFiscale\bin\Debug\net7.0\codiceFiscale.deps.json
+C:\Users\polenzani.pietro\Desktop\codice_fiscale\codiceFiscale\codiceFiscale\bin\Debug\net7.0\codiceFiscale.runtimeconfig.json
+C:\Users\polenzani.pietro\Desktop\codice_fiscale\codiceFiscale\codiceFiscale\bin\Debug\net7.0\codiceFiscale.dll
+C:\Users\polenzani.pietro\Desktop\codice_fiscale\codiceFiscale\codiceFiscale\bin\Debug\net7.0\codiceFiscale.pdb
+C:\Users\polenzani.pietro\Desktop\codice_fiscale\codiceFiscale\codiceFiscale\obj\Debug\net7.0\codiceFiscale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\polenzani.pietro\Desktop\codice_fiscale\codiceFiscale\codiceFiscale\obj\Debug\net7.0\codiceFiscale.AssemblyInfoInputs.cache
+C:\Users\polenzani.pietro\Desktop\codice_fiscale\codiceFiscale\codiceFiscale\obj\Debug\net7.0\codiceFiscale.AssemblyInfo.cs
+C:\Users\polenzani.pietro\Desktop\codice_fiscale\codiceFiscale\codiceFiscale\obj\Debug\net7.0\codiceFiscale.csproj.CoreCompileInputs.cache
+C:\Users\polenzani.pietro\Desktop\codice_fiscale\codiceFiscale\codiceFiscale\obj\Debug\net7.0\codiceFiscale.dll
+C:\Users\polenzani.pietro\Desktop\codice_fiscale\codiceFiscale\codiceFiscale\obj\Debug\net7.0\refint\codiceFiscale.dll
+C:\Users\polenzani.pietro\Desktop\codice_fiscale\codiceFiscale\codiceFiscale\obj\Debug\net7.0\codiceFiscale.pdb
+C:\Users\polenzani.pietro\Desktop\codice_fiscale\codiceFiscale\codiceFiscale\obj\Debug\net7.0\codiceFiscale.genruntimeconfig.cache
+C:\Users\polenzani.pietro\Desktop\codice_fiscale\codiceFiscale\codiceFiscale\obj\Debug\net7.0\ref\codiceFiscale.dll
